@@ -7,4 +7,14 @@ para o banco de dados e atualiza o banco atual.
 
 npx prisma studio -> Abre no navegador uma interface de bd
 
+
+Diagrama de tabelas: 
+
+mudança de tabelas do prisma, rodar comando : 
+npx prisma migrate dev
+
+relacionamento: 
+precisa dar control+Shif+P e dar format document
+
+npx prisma db seed
 */
